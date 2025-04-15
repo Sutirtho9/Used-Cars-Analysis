@@ -16,9 +16,6 @@ Pre-owned car listings with attributes like brand, model, year, fuel type, and p
 - **Model**: Linear regression to predict price
 - **Interpret**: Identified key features affecting car prices
 
-## 📈 Sample Output
-![Chart](images/pie_chart.png) <!-- Optional: Add visuals -->
-
 ## 📌 Conclusion
 Linear regression works moderately well; better models like RandomForestRegressor can be explored.
 
