@@ -19,5 +19,4 @@ Pre-owned car listings with attributes like brand, model, year, fuel type, and p
 ## 📌 Conclusion
 Linear regression works moderately well; better models like RandomForestRegressor can be explored.
 
-## 🚀 Author
-[Your Name](https://github.com/Sutirtho9)
+
